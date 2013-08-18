@@ -1,0 +1,8 @@
+*~
+*.csv
+tmp*
+*.pyc
+*.db
+*.sqlite
+*.json
+
